@@ -10,13 +10,16 @@ WebProject is a web application built using TypeScript, CSS, JavaScript, and HTM
 - **Interactive UI**: The interface includes buttons, forms, and other interactive elements that enhance the user experience.
 
 ### Home Page
-The home page displays a selection of recommended and popular videos. Users can browse through categories and view details about the displayed videos.
+The home page displays a selection of recommended and popular videos. Users can browse through categories using filters and view details about the displayed videos.
 
 ### Login/Register Page
 Users can create a new account or log in with an existing one. After logging in, users have access to additional features such as uploading videos and managing their profile.
 
 ### History Page
 This page shows the history of videos watched by the user. Users can see the recently watched videos and resume watching them.
+
+### Profile Page
+The user can update their profile picture and other account information, such as the username and password.
 
 ## Usage
 After starting the development server, navigate to `http://localhost:3000` in your web browser. You can register a new account or log in with an existing one to access the application's features.
