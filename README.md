@@ -1,7 +1,7 @@
 # PlayTube
 
 ## Description
-WebProject is a web application built using TypeScript, CSS, JavaScript, and HTML. The aim of this application is to mimic the core functionalities of YouTube, providing users with a similar experience for viewing and managing video content.
+PlayTube is a web application built using TypeScript, CSS, JavaScript, and HTML. The aim of this application is to mimic the core functionalities of YouTube, providing users with a similar experience for viewing and managing video content.
 
 ## Features
 - **User Authentication**: Users can register, log in, and update their profiles.
